@@ -1,12 +1,1 @@
-Libro numero: 1
-Titolo: esafse
-Numero di pagine: 3
-Autore: awfwa
-Editore: awfaw
-
-Libro numero: 2
-Titolo: rgr
-Numero di pagine: 3
-Autore: sfef
-Editore: sef
 
